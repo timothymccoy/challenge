@@ -1,6 +1,6 @@
-# **CasePacer API Code Challenge**
+# **Elixir API Code Challenge**
 
-Hello and welcome to the official **CasePacer Code Challenge**. We tend to be pretty practical here at CasePacer, so we'd like you to implement a straightforward CRUD API based on the following objects:
+Implement a straightforward CRUD API based on the following objects:
 
 ## Firm
 ```
@@ -41,14 +41,10 @@ Hello and welcome to the official **CasePacer Code Challenge**. We tend to be pr
 
 # Technical Requirements
 
-You can use whatever tech stack you'd like, bonus points for pushing the envelope and trying something new/out of your comfort zone (Elixir/Phoenix, etc). Other potential bonus points for:
+Bonus points for:
 
 - Testing!
-- Deploying your solution (super easy to bootstrap with [Heroku](https://www.heroku.com/))
+- Deploying your solution to Heroku
 - Documenting your solution with [slate docs](https://github.com/lord/slate), [apiary](https://apiary.io/), etc
 
-# Send it our way
-
-- Submit a PR for your solution
-- We can't wait to see it!
 
